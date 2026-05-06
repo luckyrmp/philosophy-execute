@@ -135,7 +135,7 @@ print(f"- Environmental risk: {'Yes' if chosen_action.target.environmental_risk 
 """
 Expected output:
 Decision: Help Elderly person alone, no cell phone
-Impact score: 14.0
+Impact score: 19.0
 
 Reasoning:
 - Severity: HIGH
